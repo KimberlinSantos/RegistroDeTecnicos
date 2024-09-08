@@ -1,0 +1,7 @@
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro Tecnicos.csproj.AssemblyReference.cache
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro Tecnicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro Tecnicos.AssemblyInfoInputs.cache
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro Tecnicos.AssemblyInfo.cs
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro Tecnicos.csproj.CoreCompileInputs.cache
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro_Tecnicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion aplicada 3-2024\Registro Tecnicos\Registro Tecnicos\obj\Debug\net8.0\Registro Tecnicos.sourcelink.json
